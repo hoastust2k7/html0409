@@ -1,16 +1,17 @@
-.div1 {
+.gradient_backgound {
+    margin: auto;
     width: 1024px;
     height: 376px;
     background: linear-gradient(to right, blue, lightskyblue, blue);    
 }
 
-.gradient_backgound {
+.div1 {
     width: 1024px;
     height: 376px;
     border: 4px dashed;
     background-size: 256px;
     background-repeat: no-repeat;
-    background-image: url(../image/nyan_cat.gif), url(../image/nyan_cat.gif);
+    background-image: url(../image/easter.gif), url(../image/easter.gif);
     background-position: right center, left center;
 }
 
